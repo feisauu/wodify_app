@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806405631213",
+    "project_id": "workout-tracker-bc51e",
+    "storage_bucket": "workout-tracker-bc51e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806405631213:android:a65bf007ee1a028f7070e4",
+        "android_client_info": {
+          "package_name": "com.glowacz.flutter_workout_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMctFqRDKhnH0buW6xmWxq7JGbcAkzw5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
